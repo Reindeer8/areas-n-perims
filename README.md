@@ -1,4 +1,4 @@
 # areas-n-perims
-Exercise from Sololearn
+Exercise on Sololearn
 
 Interesting exercise I managed to solve
